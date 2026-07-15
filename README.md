@@ -1,4 +1,4 @@
-# UPS Login Automation
+# UPS Login & Browser Automation
 
 ## Overview
 
